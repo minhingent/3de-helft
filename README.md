@@ -1,4 +1,4 @@
 3de-helft
 =========
 
-Hobby project reservation system
+Hobby project sports and third half reservation system 
